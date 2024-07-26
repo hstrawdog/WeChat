@@ -1,9 +1,9 @@
-package com.easy.wechat.wechat;
+package com.easy.example.wechat;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 
-import com.easy.wechat.wechat.pay.WechatPayTools;
+import com.easy.example.wechat.pay.WechatPayTools;
 import com.easy.core.utils.image.BitmapUtils;
 import com.tencent.mm.opensdk.modelmsg.SendMessageToWX;
 import com.tencent.mm.opensdk.modelmsg.WXImageObject;

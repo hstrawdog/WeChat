@@ -1,7 +1,6 @@
-package com.easy.wechat
+package com.easy.example
 
 import android.app.Activity
-import android.os.Bundle
 
 
 class MainActivity : Activity() {

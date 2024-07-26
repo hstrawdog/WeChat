@@ -1,4 +1,4 @@
-package com.easy.wechat
+package com.easy.example
 
 import org.junit.Test
 

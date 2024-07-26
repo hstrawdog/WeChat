@@ -1,4 +1,4 @@
-package com.easy.wechat.wechat.interfaces
+package com.easy.example.wechat.interfaces
 
 /**
  * @author Tamsiree

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.easy.wechat'
+    namespace 'com.easy.example'
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.easy.wechat"
+        applicationId "com.easy.example"
         minSdk 23
         targetSdk 31
         versionCode 1

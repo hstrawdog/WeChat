@@ -1,4 +1,4 @@
-package com.easy.wechat.wechat
+package com.easy.example.wechat.share
 
 /**
  *

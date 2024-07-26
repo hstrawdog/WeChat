@@ -1,4 +1,4 @@
-package com.easy.wechat.wechat.pay;
+package com.easy.example.wechat.pay;
 
 import android.content.Context;
 import android.text.TextUtils;

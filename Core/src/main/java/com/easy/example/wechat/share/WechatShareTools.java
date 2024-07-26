@@ -1,10 +1,10 @@
-package com.easy.wechat.wechat.share;
+package com.easy.example.wechat.share;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 
-import com.easy.wechat.wechat.WechatShareModel;
-import com.easy.wechat.wechat.pay.WechatPayTools;
+import com.easy.example.wechat.WechatShareModel;
+import com.easy.example.wechat.pay.WechatPayTools;
 import com.easy.core.utils.image.BitmapUtils;
 import com.tencent.mm.opensdk.modelmsg.SendMessageToWX;
 import com.tencent.mm.opensdk.modelmsg.WXImageObject;
@@ -103,7 +103,7 @@ public class WechatShareTools {
         }
     }
 
-    public static void shareMusic(com.easy.wechat.wechat.WechatShareModel shareModel, SharePlace sharePlace) {
+    public static void shareMusic(com.easy.example.wechat.WechatShareModel shareModel, SharePlace sharePlace) {
         WXMusicObject wxMusicObject = new WXMusicObject();
         wxMusicObject.musicUrl = shareModel.getUrl();
 
@@ -139,7 +139,7 @@ public class WechatShareTools {
         }
     }
 
-    public static void shareVideo(com.easy.wechat.wechat.WechatShareModel shareModel, SharePlace sharePlace) {
+    public static void shareVideo(com.easy.example.wechat.WechatShareModel shareModel, SharePlace sharePlace) {
         WXVideoObject wxVideoObject = new WXVideoObject();
         wxVideoObject.videoUrl = shareModel.getUrl();
 

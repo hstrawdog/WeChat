@@ -1,4 +1,4 @@
-package com.easy.wechat.wechat.pay;
+package com.easy.example.wechat.pay;
 
 import android.content.Context;
 
@@ -9,7 +9,7 @@ import com.easy.core.net.net.ok.OkNetCallback;
 import com.easy.core.net.net.ok.OkParamsImpl;
 import com.easy.core.utils.ToastUtils;
 import com.easy.core.utils.log.LogUtils;
-import com.easy.wechat.wechat.interfaces.OnSuccessAndErrorListener;
+import com.easy.example.wechat.interfaces.OnSuccessAndErrorListener;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

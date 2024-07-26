@@ -1,4 +1,4 @@
-package com.easy.wechat.wechat.pay
+package com.easy.example.wechat.pay
 
 /**
  * @author Tamsiree
